@@ -1,6 +1,6 @@
 ## Demo App
 
-It is a demo app
+it is demo app
 
 #### License
 

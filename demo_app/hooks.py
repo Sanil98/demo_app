@@ -1,7 +1,7 @@
 app_name = "demo_app"
 app_title = "Demo App"
-app_publisher = "D-code"
-app_description = "It is a demo app"
+app_publisher = "dcode"
+app_description = "it is demo app"
 app_email = "sanilthakur98adsevermedia@gmail.com"
 app_license = "MIT"
 
