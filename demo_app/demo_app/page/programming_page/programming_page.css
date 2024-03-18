@@ -1,0 +1,6 @@
+/* apply css on Html page */
+.demo-page{
+    background-color: red;
+    padding: 3px;
+    text-align: center;
+}

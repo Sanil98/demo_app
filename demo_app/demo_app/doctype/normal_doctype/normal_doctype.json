@@ -1,0 +1,56 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-02-29 09:32:26.486549",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "a",
+  "b",
+  "child_doctype"
+ ],
+ "fields": [
+  {
+   "fieldname": "a",
+   "fieldtype": "Data",
+   "label": "A"
+  },
+  {
+   "fieldname": "b",
+   "fieldtype": "Data",
+   "label": "B"
+  },
+  {
+   "fieldname": "child_doctype",
+   "fieldtype": "Table",
+   "label": "Child DocType",
+   "options": "Child DocType"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-02-29 10:55:05.593630",
+ "modified_by": "Administrator",
+ "module": "Demo App",
+ "name": "Normal DocType",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
